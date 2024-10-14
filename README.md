@@ -1,1 +1,1 @@
-To see the backend go to main branch
+To see the backend of kfc clone go to main branch
